@@ -1,5 +1,4 @@
 # DatePlay
 
-По введенной дате выводит событие произошедшее в этот день
+Print events by date. Gregorian and Julian calendars
 
-Поддерживает григорианский и юлианский календари
